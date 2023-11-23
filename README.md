@@ -54,7 +54,7 @@ User should run the main.py in order to start our program.
 <!-- CONTACT -->
 ## Contact
 
-Chris Song - [@ychris-song](https://www.linkedin.com/in/ychris-song/) - csong2023@gmail.com
+LinkedIn - [@ychris-song](https://www.linkedin.com/in/ychris-song/) - csong2023@gmail.com
 
 Project Link: [https://github.com/csong2023/hack112](https://github.com/csong2023/hack112)
 
