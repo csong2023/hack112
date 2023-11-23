@@ -22,8 +22,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://docs.google.com/presentation/d/18tj-degyDAsGrBU2I1TEENEnfXzQvAz-ATHaIExopl8/edit?usp=sharing">
+    <img src="images/logo.png" alt="Logo" width="800" height="800">
   </a>
 
   <h3 align="center">Avoid The RUSH!</h3>
@@ -54,9 +54,9 @@ User should run the main.py in order to start our program.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Chris Song - [@ychris-song](https://www.linkedin.com/in/ychris-song/) - csong2023@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/csong2023/hack112](https://github.com/csong2023/hack112)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
