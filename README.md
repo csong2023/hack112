@@ -42,7 +42,6 @@ The red car, with Professor Virtue and Taylor, is stuck in traffic.
 User can choose the level of difficulty (easy, medium, hard) of the game. 
 The red car should reach the exit within the stated number of moves. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -58,7 +57,6 @@ LinkedIn - [@ychris-song](https://www.linkedin.com/in/ychris-song/) - csong2023@
 
 Project Link: [https://github.com/csong2023/hack112](https://github.com/csong2023/hack112)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
