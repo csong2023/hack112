@@ -36,8 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-
 Project Description: 
 The goal of "Avoid the Rush" is to move nearby cars, trucks, and buses to free the red car. 
 The red car, with Professor Virtue and Taylor, is stuck in traffic.
